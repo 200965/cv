@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>afowowowe's personal website</title>
+</head>
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img
+        src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kZXxlbnwwfHwwfHx8MA%3D%3D"
+        alt="picture of code"></td>
+      <td><h1>Afowowe Ayomide</h1>
+      <p><em>I'm available for website development</em></p></td>
+    </tr>
+  </table> 
+ </ul><hr size="3"noshade>
+ <h3>experience </h3>  
+ <ul>
+   <li> <strong> Amateur</strong><strong>/Learner</strong>
+ </ul>
+ <hr size="3" noshade>
+ If u want to  learn i suggest this <strong> website </strong><strong><a href="https://www.appbrewery.co/">app brewery</a></strong>
+  <hr size="3"noshade>
+<p><h6>THIS IS MY FIRST WEB PAGE</h6></p>
+<hr size="3"noshade>
+</ul>
+<P><h3>Education</h3></P>
+<ul>
+<li>LAGOS AFRICAN CHURCH GRAMMAR SCHOOL</li>
+<li>Located In Ifako Ijaiye Local Goverment</li>
+</ul>
+<a href="hobbies.html">My hobbies</a>
+<a href="Contact-Me.html">Contact-Me</a>
+<hr size="5"noshade>
+<h3>WORK EXPERIENCE</h3>
+<table cellspacing="10">
+  <thead>
+  <tr>
+    <th>Dates</th>
+    <th>Work</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+  <td>2019-2022</td>
+  <td>Lead Developer At Tempo</td>
+  </tr>
+  <tr>
+  <td>2010</td>
+  <td>researcher at institute of cognitive sciences</td>
+  </tr>
+</tbody>
+</table>
+<hr size="5" noshade>
+<h3>skills</h3>
+<table cellspacing="10">
+  <tr>
+    <td>html developer</td>
+    <td>web developer</td>
+  </tr>
+    <tr>
+      <td>css developer</td>
+      <td>java script developer</td>
+    </tr>
+    <tr>
+      <td>programmer</td>
+      <td>game developer</td>
+    </tr>
+</table>
+<hr size="5"noshade>
+</ul>
+</body>
+</html>
+
